@@ -25,6 +25,7 @@ body {
   font-family: Arial, sans-serif;
   
   
+  
 }
 #active {
   background-color: black;
@@ -34,6 +35,7 @@ body {
   margin: 20px auto;
 
 }
+
 
 #search-input {
   padding: 10px;
