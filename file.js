@@ -7,7 +7,7 @@ document.getElementById("login-button").addEventListener("click", function () {
 
     if (!username || !password || !email || !phone || !country) {
         alert("Please fill in all fields.");
-        return; // Exit the function early if any field is empty
+        return;
     }
     window.location.href = 'index.html'
 });

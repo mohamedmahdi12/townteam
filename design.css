@@ -24,10 +24,9 @@
 body {
   font-family: Arial, sans-serif;
   
-  
-  
 }
-#active {
+
+.active {
   background-color: black;
 }
 .search-container {
@@ -815,7 +814,7 @@ header {
   }
   
 }
-#darkmode {
+.darkmode {
   font-size: 22px;
   cursor: pointer;
 }
